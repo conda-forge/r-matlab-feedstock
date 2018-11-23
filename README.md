@@ -14,9 +14,8 @@ Summary: Emulate MATLAB code using R
 Current build status
 ====================
 
-[![Linux](https://img.shields.io/circleci/project/github/conda-forge/r-matlab-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/r-matlab-feedstock)
-[![OSX](https://img.shields.io/travis/conda-forge/r-matlab-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/r-matlab-feedstock)
-[![Windows](https://img.shields.io/appveyor/ci/conda-forge/r-matlab-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/r-matlab-feedstock/branch/master)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/r-matlab-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/r-matlab-feedstock)
 
 Current release info
 ====================
