@@ -144,5 +144,4 @@ Feedstock Maintainers
 =====================
 
 * [@conda-forge/r](https://github.com/conda-forge/r/)
-* [@fabio-cumbo](https://github.com/fabio-cumbo/)
 
