@@ -1,11 +1,11 @@
-About r-matlab
-==============
+About r-matlab-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-matlab-feedstock/blob/main/LICENSE.txt)
 
 Home: http://cran.r-project.org/package=matlab
 
 Package license: Artistic-2.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-matlab-feedstock/blob/main/LICENSE.txt)
 
 Summary: Emulate MATLAB code using R
 
